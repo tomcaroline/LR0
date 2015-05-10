@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/application.ico</file>
+        <file>image/prev.ico</file>
+        <file>image/next.ico</file>
+        <file>image/exit.ico</file>
+        <file>image/about.ico</file>
+        <file>image/ok.ico</file>
+        <file>image/uppercase/S.png</file>
+        <file>image/uppercase/B.png</file>
+        <file>image/uppercase/A.png</file>
+        <file>image/lowercase/e.png</file>
+        <file>image/lowercase/d.png</file>
+        <file>image/lowercase/c.png</file>
+        <file>image/lowercase/b.png</file>
+        <file>image/lowercase/a.png</file>
+        <file>image/lrpic.ico</file>
+        <file>image/weima.ico</file>
+        <file>LR.jpeg</file>
+    </qresource>
+</RCC>
